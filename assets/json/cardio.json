@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Elizabeth Thompson",
+    "picture": "assets/cardio.png",
+    "hospital": "St. Mary's Heart Center",
+    "speciality": "Gynecologist"
+  },
+  {
+    "name": "Dr. David Johnson",
+    "picture": "assets/cardio.png",
+    "hospital": "Central City Medical Group",
+    "speciality": "Dermatologist"
+  },
+  {
+    "name": "Dr. Emily Garcia",
+    "picture": "assets/cardio.png",
+    "hospital": "Bayside Regional Hospital",
+    "speciality": "Psychiatrist"
+  },
+  {
+    "name": "Dr. Michael Lee",
+    "picture": "assets/cardio.png",
+    "hospital": "Sunrise Cardio Clinic",
+    "speciality": "Neurologist"
+  },
+  {
+    "name": "Dr. Sarah Walker",
+    "picture": "assets/cardio.png",
+    "hospital": "Greenfield Community Hospital",
+    "speciality": "Dentist"
+  },
+  {
+    "name": "Dr. Daniel Davis",
+    "picture": "assets/cardio.png",
+    "hospital": "Northshore Medical Center",
+    "speciality": "Cardiologist"
+  },
+  {
+    "name": "Dr. Karen Williams",
+    "picture": "assets/cardio.png",
+    "hospital": "Southgate Clinic",
+    "speciality": "Dentist"
+  },
+  {
+    "name": "Dr. Peter Anderson",
+    "picture": "assets/cardio.png",
+    "hospital": "Harbor Point Medical Group",
+    "speciality": "Neurologist"
+  },
+  {
+    "name": "Dr. Jessica Brown",
+    "picture": "assets/cardio.png",
+    "hospital": "Valley View Hospital",
+    "speciality": "Gynecologist"
+  },
+  {
+    "name": "Dr. Matthew Hernandez",
+    "picture": "assets/cardio.png",
+    "hospital": "Sunset Heart Institute",
+    "speciality": "Psychiatrist"
+  },
+  {
+    "name": "Dr. John Doe",
+    "picture": "assets/cardio.png",
+    "hospital": "City Neuro Clinic",
+    "speciality": "Dermatologist"
+  },
+  {
+    "name": "Dr. Alice Smith",
+    "picture": "assets/cardio.png",
+    "hospital": "Women's Health Center",
+    "speciality": "Neurologist"
+  },
+  {
+    "name": "Dr. Robert Johnson",
+    "picture": "assets/cardio.png",
+    "hospital": "Bright Smiles Dental Clinic",
+    "speciality": "Psychiatrist"
+  },
+  {
+    "name": "Dr. Samantha White",
+    "picture": "assets/cardio.png",
+    "hospital": "Skin Care Clinic",
+    "speciality": "Gynecologist"
+  },
+  {
+    "name": "Dr. William Brown",
+    "picture": "assets/cardio.png",
+    "hospital": "Heartbeat Hospital",
+    "speciality": "Dentist"
+  },
+  {
+    "name": "Dr. Laura Taylor",
+    "picture": "assets/cardio.png",
+    "hospital": "Mind Wellness Center",
+    "speciality": "Neurologist"
+  },
+  {
+    "name": "Dr. Jennifer Clark",
+    "picture": "assets/cardio.png",
+    "hospital": "Feminine Care Clinic",
+    "speciality": "Psychiatrist"
+  },
+  {
+    "name": "Dr. Samuel Wilson",
+    "picture": "assets/cardio.png",
+    "hospital": "Brain & Spine Institute",
+    "speciality": "Dermatologist"
+  },
+  {
+    "name": "Dr. Emily Harris",
+    "picture": "assets/cardio.png",
+    "hospital": "Perfect Smile Dental Care",
+    "speciality": "Gynecologist"
+  },
+  {
+    "name": "Dr. Michael Thompson",
+    "picture": "assets/cardio.png",
+    "hospital": "Mental Health Clinic",
+    "speciality": "Cardiologist"
+  },
+  {
+    "name": "Dr. Sophia Adams",
+    "picture": "assets/cardio.png",
+    "hospital": "Beauty & Skin Clinic",
+    "speciality": "Dentist"
+  }
+]

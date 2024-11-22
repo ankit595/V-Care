@@ -1,0 +1,44 @@
+[
+
+{
+  "name": "Dr. John Smith",
+  "picture" :"assets/prac.jpg",
+  "hospital": "City General Hospital"
+},
+{
+"name": "Dr. Emily Davis",
+
+  "picture" :"assets/prac.jpg",
+"hospital": "Westside Medical Center"
+},
+{
+"name": "Dr. Robert Johnson",
+
+  "picture" :"assets/prac.jpg",
+"hospital": "Eastview Clinic"
+},
+{
+"name": "Dr. John Smith",
+  "picture" :"assets/prac.jpg",
+"hospital": "City General Hospital"
+},
+{
+"name": "Dr. Emily Davis",
+  "picture" :"assets/prac.jpg",
+"hospital": "Westside Medical Center"
+},
+{
+"name": "Dr. Robert Johnson",
+  "picture" :"assets/prac.jpg",
+"hospital": "Eastview Clinic"
+},
+{
+"name": "Dr. Maria Rodriguez",
+  "picture" :"assets/prac.jpg",
+"hospital": "Central Health Center"
+},
+{
+"name": "Dr. Michael Baker",
+  "picture" :"assets/prac.jpg",
+"hospital": "Northridge Medical Group"
+}]
